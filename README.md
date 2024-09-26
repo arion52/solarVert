@@ -34,7 +34,7 @@
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/solarVert.git
+git clone https://github.com/arion52/solarVert.git
 cd solarVert
 ```
 
