@@ -1,6 +1,6 @@
 # solarVert
 
-**solarVert** is a solar panel management system that provides various functionalities such as anomaly detection, power generation predictions, power usage predictions, and maximum power point tracking (MPPT). It uses a Flutter frontend and a Django backend integrated with machine learning and deep learning models to make predictions and analyze solar panel performance.
+**solarVert** is a solar panel management system that provides various functionalities such as anomaly detection, power generation predictions, power usage predictions, and maximum power point tracking (MPPT). It uses a [Flutter](https://github.com/shubhikaj/solarVert) frontend and a Django backend integrated with machine learning and deep learning models to make predictions and analyze solar panel performance.
 
 ## Features
 
